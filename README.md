@@ -51,3 +51,25 @@ Clean Code: Métodos curtos, separação clara de ações, código modular e fá
 Classe: Task e suas implementações concretas.
 Função: Centraliza a criação de tarefas dos tipos existentes.
 Clean Code: Reduz acoplamento no menu, remove criação manual de objetos, cumpre o princípio de responsabilidade única.
+
+Como Compilar e Executar
+Via terminal
+
+Certifique-se de estar na pasta onde estão os arquivos .java.
+
+Compile todos os arquivos:
+
+javac *.java
+
+
+Execute o programa pela classe principal:
+
+java Main
+
+Via IDE (Eclipse, IntelliJ ou VSCode)
+
+Importe a pasta do projeto como um projeto Java.
+
+Localize o arquivo Main.java.
+
+Clique com o botão direito e selecione Run.
